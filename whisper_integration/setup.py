@@ -1,0 +1,9 @@
+    install_requires=[
+        "openai-whisper",
+        "streamlit",
+        "torch",
+        "torchaudio",
+        "fastapi",
+        "uvicorn",
+        "python-multipart"
+    ]
